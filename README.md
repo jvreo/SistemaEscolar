@@ -3,7 +3,7 @@ Este projeto tem por finalidade permitir a gestao academica fornecendo todas as
 ferramentas de trabalho necessaria para tal.
 
 ## Equipe
-Aylla de Souza Freitas
+Aylla de Souza Freitas e
 Joao Vitor Ramos Eugenio de Oliveira
 
 ## Instalação
