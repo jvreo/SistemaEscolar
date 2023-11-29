@@ -2,6 +2,10 @@
 Este projeto tem por finalidade permitir a gestao academica fornecendo todas as
 ferramentas de trabalho necessaria para tal.
 
+## Equipe
+Aylla de Souza Freitas
+Joao Vitor Ramos Eugenio de Oliveira
+
 ## Instalação
 
 1 - Baixe o arquivo .zip que contem os arquivos necessarios
